@@ -10,4 +10,4 @@ Before you spend a lot of money on investing, you should consider the specificat
 
 ## Exploratory Data Analysis
 
-[1](https://github.com/brdx88/predicting_house_for_the_best_investment/blob/main/images/0.png)
+![1](https://github.com/brdx88/predicting_house_for_the_best_investment/blob/main/images/0.png)
