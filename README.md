@@ -1,5 +1,7 @@
 # Predicting House Price for the Best Investment
+
 ![1](https://github.com/brdx88/predicting_house_for_the_best_investment/blob/main/images/house.jpeg)
+
 Home is a primary basic need, everyone needs a house for shelter every day. However, for those who have their needs met, some people use the money to invest. One of the investment instruments is property, especially houses. This dataset provides information on the number of bedrooms, bathrooms, conditions, views, building area, land area, basement area, and of course prices. The dataset can be found on [Kaggle](https://www.kaggle.com/harlfoxem/housesalesprediction).
 
 
